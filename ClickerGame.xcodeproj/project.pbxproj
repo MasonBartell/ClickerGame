@@ -16,6 +16,7 @@
 		057D3AE92ACC58140028644B /* ClickerGameTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 057D3AE82ACC58140028644B /* ClickerGameTests.swift */; };
 		057D3AF32ACC58140028644B /* ClickerGameUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 057D3AF22ACC58140028644B /* ClickerGameUITests.swift */; };
 		057D3AF52ACC58140028644B /* ClickerGameUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 057D3AF42ACC58140028644B /* ClickerGameUITestsLaunchTests.swift */; };
+		057D3B022ACC60CB0028644B /* ViewControllerStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = 057D3B012ACC60CB0028644B /* ViewControllerStore.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		057D3AEE2ACC58140028644B /* ClickerGameUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ClickerGameUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		057D3AF22ACC58140028644B /* ClickerGameUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClickerGameUITests.swift; sourceTree = "<group>"; };
 		057D3AF42ACC58140028644B /* ClickerGameUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClickerGameUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		057D3B012ACC60CB0028644B /* ViewControllerStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerStore.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				057D3AD12ACC58120028644B /* AppDelegate.swift */,
 				057D3AD32ACC58120028644B /* SceneDelegate.swift */,
 				057D3AD52ACC58120028644B /* ViewController.swift */,
+				057D3B012ACC60CB0028644B /* ViewControllerStore.swift */,
 				057D3AD72ACC58120028644B /* Main.storyboard */,
 				057D3ADA2ACC58140028644B /* Assets.xcassets */,
 				057D3ADC2ACC58140028644B /* LaunchScreen.storyboard */,
@@ -258,6 +261,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				057D3B022ACC60CB0028644B /* ViewControllerStore.swift in Sources */,
 				057D3AD62ACC58120028644B /* ViewController.swift in Sources */,
 				057D3AD22ACC58120028644B /* AppDelegate.swift in Sources */,
 				057D3AD42ACC58120028644B /* SceneDelegate.swift in Sources */,
